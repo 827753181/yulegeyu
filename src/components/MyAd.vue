@@ -6,7 +6,6 @@
         代码完全开源，欢迎 star
       </div>
     </a>
-    <!-- <a href="https://space.bilibili.com/12890453/"> 欢迎关注程序员鱼皮 </a>-->
   </div>
 </template>
 <script setup lang="ts">
