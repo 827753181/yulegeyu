@@ -1,6 +1,6 @@
 <template>
   <div id="indexPage">
-    <h1>🦁 林了个博</h1>
+    <h1>🦁 博了个博</h1>
     <div style="margin-bottom: 16px">低配版羊了个羊小游戏，仅供消遣</div>
     <a-button
       block
@@ -49,7 +49,7 @@
     </a-button>
     <my-ad />
     <div class="footer">
-      林了个博 ©2022 by
+      博了个博 ©2022 by
       <a style="color: #fff"> 程序员flb </a>
       fork
       <a href="https://github.com/liyupi" target="_blank" style="color: #fff">
