@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div class="wrapper_app">
     <div class="content">
       <router-view />
     </div>
@@ -7,7 +7,7 @@
 </template>
 <script setup lang="ts"></script>
 <style scoped>
-#app {
+.wrapper_app {
   background: url("assets/bg.jpeg");
   padding: 16px 16px 50px;
   min-height: 100vh;
